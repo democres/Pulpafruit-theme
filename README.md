@@ -1,0 +1,2 @@
+# Pulpafruit-theme
+Prestashop theme
