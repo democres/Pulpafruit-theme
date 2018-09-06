@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.333 36.333">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #72b452;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <title>Asset 29</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_3" data-name="Layer 3">
+      <circle class="cls-1" cx="18.167" cy="18.167" r="18.167"/>
+      <polyline class="cls-2" points="14.757 9.347 23.576 18.167 14.757 26.986"/>
+    </g>
+  </g>
+</svg>

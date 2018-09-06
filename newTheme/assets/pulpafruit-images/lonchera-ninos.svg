@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.725 24.105">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #73dd17;
+      }
+    </style>
+  </defs>
+  <title>Asset 21</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g>
+        <path class="cls-1" d="M11.777,3.69,12.761.738h1.7V0H12.229L11,3.69H0V24.1H10.207v-.738H.738V4.427H12.3V24.1h4.427V3.69Zm4,.738-1.264,2.7-1.264-2.7Zm.212,18.939H13.036V5.715l1.476,3.148,1.476-3.148Zm0,0"/>
+        <rect class="cls-1" x="14.143" y="19.48" width="0.738" height="3.025"/>
+        <rect class="cls-1" x="14.143" y="18.004" width="0.738" height="0.738"/>
+        <rect class="cls-1" x="14.143" y="16.529" width="0.738" height="0.738"/>
+        <rect class="cls-1" x="1.599" y="22.137" width="2.213" height="0.738"/>
+        <rect class="cls-1" x="4.55" y="22.137" width="0.738" height="0.738"/>
+        <rect class="cls-1" x="9.224" y="4.919" width="0.738" height="0.738"/>
+        <rect class="cls-1" x="10.699" y="4.919" width="0.738" height="0.738"/>
+        <path class="cls-1" d="M6.518,10.33A3.566,3.566,0,1,0,10.085,13.9,3.571,3.571,0,0,0,6.518,10.33Zm0,6.395A2.829,2.829,0,1,1,9.347,13.9a2.832,2.832,0,0,1-2.829,2.829Zm0,0"/>
+        <rect class="cls-1" x="10.945" y="23.367" width="0.738" height="0.738"/>
+      </g>
+    </g>
+  </g>
+</svg>

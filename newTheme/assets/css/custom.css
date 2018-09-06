@@ -1,0 +1,282 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+/* background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(../img/pitcher.jpg); */
+
+#content {
+  background-color: white !important;
+}
+
+#header a {
+  position: relative;
+  z-index: 100;
+}
+
+#wrapper {
+  padding-top: 0px !important;
+}
+
+.col-sm-12.position-static {
+  background-color: #72b452;
+}
+
+#header .header-nav {
+  border-bottom: none !important;
+}
+
+.logo.img-responsive {
+ width: 170px;
+ height: 40px;
+ margin-left: 40px;
+}
+
+#_desktop_user_info {
+  margin-right: -180px !important;
+  margin-top: 10px;
+}
+
+#_desktop_cart{
+  margin-top: 3px;
+  margin-right: 200px !important;
+  background-color: white !important;
+}
+
+#header .header-nav .blockcart {
+    background-color: white !important;
+    color: green;
+}
+
+
+#search_widget {
+  margin-top: 30px !important;
+  margin-left: 90px;
+}
+
+#comoFunciona {
+  background-image: url(../pulpafruit-images/compra-pulpafruit.jpg);
+  background-size: 100% 600px;
+  height: 600px;
+}
+
+#portfolioHome .imagenPortafolio {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(../pulpafruit-images/bebesopa.jpg); ;
+  width: 100%;
+  height: 300px;
+
+}
+
+#portfolioHome h1{
+  font-size: 40px !important;
+}
+
+ #portfolioHome h1 {
+   position: relative;
+   top: 100px;
+   left: 50px;
+   z-index: 100;
+   color: white;
+ }
+ .phrase .row{
+     background:url(../pulpafruit-images/fondo-frase.jpg) no-repeat;
+     height: 500px;
+     padding-top: 100px;
+ }
+
+.phrase h1 {
+  color: #24a741;
+  margin-left: 200px;
+}
+
+.phrase h3 {
+  margin-top: 100px;
+  color: #72b452;
+  margin-left: 200px;
+}
+
+.phrase p {
+  margin-left: 200px;
+}
+
+#rowUnits {
+  margin-top: 10px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+#rowUnitsBuy {
+margin-top: -63px;
+margin-left: 173px;
+background:url(../pulpafruit-images/carrito.svg) no-repeat;
+}
+
+.discount-percentage {
+  margin-left: 87%;
+  margin-top: -30px;
+  height: 50px;
+  padding-top: 15px !important;
+  border-radius: 50px;
+  text-align: center;
+  background-color: #f04c05 !important;
+}
+
+.featured-products {
+  background-color: white;
+}
+
+.product-price-and-shipping {
+  margin-left: -100px;
+}
+
+span[class="price"] {
+  color: #24a642;
+}
+
+div[class="products"] .thumbnail-container {
+  box-shadow: none;
+}
+
+#newsletterDiv {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+ #newsletterDiv h1 {
+  color: #25a640;
+  text-align: left;
+ }
+
+ #newsletterDiv p {
+  color: black;
+ }
+
+
+.header-top {
+  background-color: #72b452 !important;
+  text-align: center;
+  height: 40px;
+}
+
+input[name="s"] {
+  border-radius: 20px;
+  margin-bottom: 10px;
+  height: 35px;
+}
+.search-widget form input[type=text]:focus {
+  outline: 3px solid transparent;
+}
+
+#btnSearchNavBar {
+  margin-bottom: 5px;
+}
+
+div[name="displayLogoNav"] {
+  margin-top: 13px;
+}
+
+div[class="right-nav"] {
+  padding-top: 8px;
+}
+
+.container {
+ width: 100%;
+ height: 100%;
+ padding: 0px;
+}
+
+#carousel {
+  height: 600px;
+}
+
+#carousel img {
+  height: 600px;
+}
+
+.carousel-inner {
+  height: 600px !important;
+}
+
+figcaption {
+  margin-bottom: 200px;
+}
+
+div[class="block_newsletter col-md-12 col-sm-12"] {
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+}
+input[name="submitNewsletter"]{
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background-color: #72b452;
+}
+
+input[aria-labelledby="block-newsletter-label"] {
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+#footerRow {
+  text-align: center;
+  margin-left: 7%;
+}
+
+.block-contact {
+  display: none;
+}
+
+#rowSubscribe {
+  background-image: url(../pulpafruit-images/textura-fondo.png);
+}
+
+#rowServicesDescription div {
+margin-top: 50px;
+}
+
+.fresasFooter{
+  position: relative;
+  top: -100px;
+  z-index: 100;
+}
+.fresasFooter2 {
+  position: relative;
+  z-index: 100;
+  right: 0px;
+  top: 100px;
+  float: right;
+}
+
+#rowServicesDescription {
+  background-color: #f2f2f2;
+  text-align: center;
+  height: 170px;
+  margin-right: 14%;
+  margin-left: 14%;
+}
+#rowServiceDescParent {
+  text-align: center;
+  background-color: #f2f2f2;
+  margin-top: -45px;
+}
+
+
+#rowCopyRight {
+  background-color: #24a741;
+}
+
+#rowCopyRight * {
+  color: white;
+  font-size: 19px;
+  margin-top: 8px;
+}
+
+#footerContact1 {
+  margin-left: 13px;
+  margin-top: 70px;
+  text-align: left;
+}
+
+#footerContact2 {
+  margin-top: 18px;
+  text-align: left;
+}

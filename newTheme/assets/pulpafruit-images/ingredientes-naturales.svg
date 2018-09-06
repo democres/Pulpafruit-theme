@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39.195 69.125">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Asset 26</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="iconos">
+      <line class="cls-1" x1="9.695" y1="25.75" x2="29.32" y2="25.75"/>
+      <path class="cls-1" d="M14.07,26.25V38.625L1.6,61.086a4.739,4.739,0,0,0,4.143,7.039h27.7a4.739,4.739,0,0,0,4.143-7.039L25.125,38.625V26.25"/>
+      <line class="cls-1" x1="12.445" y1="51" x2="18.695" y2="51"/>
+      <line class="cls-1" x1="12.445" y1="61" x2="18.695" y2="61"/>
+      <line class="cls-1" x1="12.445" y1="56" x2="18.695" y2="56"/>
+      <path class="cls-1" d="M18.57,20.625S15.57,2.5,37.32,1C37.32,1,38.07,22.25,18.57,20.625Z"/>
+      <path class="cls-1" d="M18.57,20.625s3-6.75,8-9.75"/>
+    </g>
+  </g>
+</svg>

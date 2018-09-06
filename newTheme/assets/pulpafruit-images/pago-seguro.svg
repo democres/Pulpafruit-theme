@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.17 57.997">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Asset 28</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="iconos">
+      <path class="cls-1" d="M22,57l-5.39-3.04A30.643,30.643,0,0,1,1,27.257V10.667l20.9-8.39v-.11l.13.05.14-.05v.11l9.56,3.84"/>
+      <path class="cls-1" d="M43.07,24.387v2.87a30.643,30.643,0,0,1-15.61,26.7L22.07,57"/>
+      <circle class="cls-1" cx="41.42" cy="12.75" r="11.75"/>
+      <polyline class="cls-1" points="38.17 12.5 41.003 15.333 46.337 9.333"/>
+      <line class="cls-1" x1="1.753" y1="14" x2="9.087" y2="14"/>
+      <line class="cls-1" x1="1.753" y1="24" x2="9.087" y2="24"/>
+      <line class="cls-1" x1="1.753" y1="34" x2="9.087" y2="34"/>
+      <line class="cls-1" x1="5.753" y1="43" x2="13.087" y2="43"/>
+      <line class="cls-1" x1="13.753" y1="52" x2="18.837" y2="52"/>
+    </g>
+  </g>
+</svg>
